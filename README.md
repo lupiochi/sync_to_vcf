@@ -96,4 +96,4 @@ The script will output a concatenated VCF file and a concatenated CSV file in th
 
 This pipeline ensures efficient processing and conversion of genomic data from SYNC files to VCF and CSV formats, facilitating further analysis and research in population genetics.
 
-### Developed by Luiz F. Piochi | [Website](lupiochi.github.io)
+### Developed by Luiz F. Piochi | [Website](https://lupiochi.github.io/)
